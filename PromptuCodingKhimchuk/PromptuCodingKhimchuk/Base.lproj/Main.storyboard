@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Una-zQ-MpN">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController storyboardIdentifier="ViewController" id="BYZ-38-t0r" customClass="ViewController" customModule="PromptuCodingKhimchuk" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="Z9M-cQ-q5S">
+                                <rect key="frame" x="0.0" y="147" width="390" height="697"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                            </tableView>
+                            <button opaque="NO" contentMode="scaleAspectFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qWD-cx-ujN">
+                                <rect key="frame" x="338" y="67" width="32" height="60"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="32" id="1sm-EX-RUC"/>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="32" id="Uon-AM-4SS"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="pencil.circle" catalog="system"/>
+                                <connections>
+                                    <action selector="showFilter" destination="BYZ-38-t0r" eventType="touchUpInside" id="u0D-F3-Ajd"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="qWD-cx-ujN" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="1eJ-ls-eSi"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Z9M-cQ-q5S" secondAttribute="trailing" id="RT9-D5-eww"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="qWD-cx-ujN" secondAttribute="trailing" constant="20" id="b1j-Wb-DIl"/>
+                            <constraint firstItem="Z9M-cQ-q5S" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="e6O-aF-Nlw"/>
+                            <constraint firstItem="Z9M-cQ-q5S" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="100" id="fqu-nV-bSB"/>
+                            <constraint firstItem="Z9M-cQ-q5S" firstAttribute="top" secondItem="qWD-cx-ujN" secondAttribute="bottom" constant="20" id="mQ6-y3-MLZ"/>
+                            <constraint firstAttribute="bottom" secondItem="Z9M-cQ-q5S" secondAttribute="bottom" id="rfI-cL-yLi"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="tableView" destination="Z9M-cQ-q5S" id="7Yi-nd-Pp5"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1640" y="-34"/>
+        </scene>
+        <!--Initial View Controller-->
+        <scene sceneID="KfX-tj-kD6">
+            <objects>
+                <viewController storyboardIdentifier="InitialViewController" id="Una-zQ-MpN" customClass="InitialViewController" customModule="PromptuCodingKhimchuk" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Jpf-4Y-GXm">
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="wIh-BV-UgL"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="VHP-6N-c93" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="875" y="-34"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="pencil.circle" catalog="system" width="128" height="123"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

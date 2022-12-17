@@ -1,0 +1,146 @@
+ADK	America/Adak	Adak Island	Alaska	Adak Airport
+ANC	America/Anchorage	Anchorage	Alaska	Ted Stevens Anchorage International Airport
+BRW	America/Anchorage	Barrow	Alaska	Wiley Post - Will Roger Memorial Airport
+BET	America/Anchorage	Bethel	Alaska	Bethel Airport
+CKU	America/Anchorage	Cordova	Alaska	Cordova Municipal Airport
+DLG	America/Anchorage	Dillingham	Alaska	Dillingham Airport
+DUT	America/Anchorage	Dutch Harbor	Alaska	Unalaska Airport
+FAI	America/Anchorage	Fairbanks	Alaska	Fairbanks International Airport
+GST	America/Anchorage	Gustavus	Alaska	Gustavus Airport
+JNU	America/Anchorage	Juneau	Alaska	Juneau International Airport
+KTN	America/Anchorage	Ketchikan	Alaska	Ketchikan International Airport
+AKN	America/Anchorage	King Salmon	Alaska	King Salmon Airport
+ADQ	America/Anchorage	Kodiak	Alaska	Kodiak Airport
+OTZ	America/Anchorage	Kotzebue	Alaska	Ralph Wien Memorial Airport
+OME	America/Anchorage	Nome	Alaska	Nome Airport
+PSG	America/Anchorage	Petersburg	Alaska	Petersburg James A. Johnson Airport
+SCC	America/Anchorage	Prudhoe Bay	Alaska	Deadhorse Airport
+SIT	America/Anchorage	Sitka	Alaska	Sitka Rocky Gutierrez Airport
+WRG	America/Anchorage	Wrangell	Alaska	Wrangell Airport
+YAK	America/Anchorage	Yakutat	Alaska	Yakutat Airport
+PHX	America/Phoenix	Phoenix	Arizona	Phoenix Sky Harbor International Airport
+TUS	America/Phoenix	Tucson	Arizona	Tucson International Airport
+BUR	America/Los_Angeles	Burbank	California	Hollywood Burbank Airport
+FAT	America/Los_Angeles	Fresno	California	Fresno Yosemite International Airport
+LAX	America/Los_Angeles	Los Angeles	California	Los Angeles International Airport
+MMH	America/Los_Angeles	Mammoth Lakes	California	Mammoth Yosemite Airport
+MRY	America/Los_Angeles	Monterey	California	Monterey Regional Airport
+OAK	America/Los_Angeles	Oakland	California	Oakland International Airport
+ONT	America/Los_Angeles	Ontario	California	Ontario International Airport
+SNA	America/Los_Angeles	Orange County	California	John Wayne Airport
+PSP	America/Los_Angeles	Palm Springs	California	Palm Springs International Airport
+SMF	America/Los_Angeles	Sacramento	California	Sacramento International Airport
+SAN	America/Los_Angeles	San Diego	California	San Diego International Airport
+SFO	America/Los_Angeles	San Francisco	California	San Francisco International Airport
+SJC	America/Los_Angeles	San Jose	California	San Jose International Airport
+SBP	America/Los_Angeles	San Luis Obispo	California	San Luis Obispo County Regional Airport
+SBA	America/Los_Angeles	Santa Barbara	California	Santa Barbara Municipal Airport
+STS	America/Los_Angeles	Sonoma	California	Charles M. Schulz Sonoma County Airport
+DEN	America/Denver	Denver	Colorado	Denver International Airport
+SBS	America/Denver	Steamboat Springs	Colorado	Steamboat Springs Airport
+IAD	America/New_York	Washington	DC	Dulles International Airport
+DCA	America/New_York	Washington	DC	Ronald Reagan Washington National Airport
+FLL	America/New_York	Fort Lauderdale	Florida	Fort Lauderdale - Hollywood International Airport
+MCO	America/New_York	Orlando	Florida	Orlando International Airport
+TPA	America/New_York	Tampa	Florida	Tampa International Airport
+ATL	America/New_York	Atlanta	Georgia	Hartsfield - Jackson Atlanta International Airport
+LIH	Pacific/Honolulu	Kauai	Hawaii	Lihue Airport
+KOA	Pacific/Honolulu	Kona	Hawaii	Ellison Onizuka Kona International Airport at Keahole
+OGG	Pacific/Honolulu	Maui	Hawaii	Kahului Airport
+HNL	Pacific/Honolulu	Honolulu	Hawaii	Daniel K. Inouye International Airport
+BOI	America/Denver	Boise	Idaho	Boise Airport
+LWS	America/Los_Angeles	Lewiston	Idaho	Lewiston - Nez Perce County Airport
+SUN	America/Denver	Sun Valley	Idaho	Friedman Memorial Airport
+ORD	America/Chicago	Chicago	Illinois	O'Hare International Airport
+IND	America/New_York	Indianapolis	Indiana	Indianapolis International Airport
+ICT	America/Chicago	Wichita	Kansas	Wichita Dwight D. Eisenhower National Airport
+MSY	America/Chicago	New Orleans	Louisiana	Louis Armstrong New Orleans International Airport
+BWI	America/New_York	Baltimore	Maryland	Baltimore - Washington International Airport
+BOS	America/New_York	Boston	Massachusetts	General Edward Lawrence Logan International Airport
+DTW	America/New_York	Detroit	Michigan	Detroit Metropolitan Wayne County Airport
+MSP	America/Chicago	Minneapolis	Minnesota	Minneapolis - Saint Paul International Airport
+MCI	America/Chicago	Kansas City	Missouri	Kansas City International Airport
+STL	America/Chicago	Saint Louis	Missouri	St. Louis Lambert International Airport
+BIL	America/Denver	Billings	Montana	Billings Logan International Airport
+BZN	America/Denver	Bozeman	Montana	Bozeman Yellowstone International Airport
+GTF	America/Denver	Great Falls	Montana	Great Falls International Airport
+HLN	America/Denver	Helena	Montana	Helena Regional Airport
+FCA	America/Denver	Kalispell	Montana	Glacier Park International Airport
+MSO	America/Denver	Missoula	Montana	Missoula International Airport
+OMA	America/Chicago	Omaha	Nebraska	Eppley Airfield
+LAS	America/Los_Angeles	Las Vegas	Nevada	McCarren International Airport
+RNO	America/Los_Angeles	Reno	Nevada	Reno-Tahoe International Airport
+EWR	America/New_York	Newark	New Jersey	Newark Liberty International Airport
+ABQ	America/Denver	Albuquerque	New Mexico	Albuquerque International Sunport
+JFK	America/New_York	New York City	New York	John F. Kennedy International Airport
+LGA	America/New_York	New York City	New York	LaGuardia Airport
+RDU	America/New_York	Raleigh	North Carolina	Raleigh-Durham International Airport
+OKC	America/Chicago	Oklahoma City	Oklahoma	Will Rogers World Airport
+EUG	America/Los_Angeles	Eugene	Oregon	Mahlon Sweet Field
+MFR	America/Los_Angeles	Medford	Oregon	Rogue Valley International-Medford Airport
+PDX	America/Los_Angeles	Portland	Oregon	Portland International Airport
+RDM	America/Los_Angeles	Redmond	Oregon	Redmond Municipal Airport
+PHL	America/New_York	Philadelphia	Pennsylvania	Philadelphia International Airport
+CHS	America/New_York	Charleston	South Carolina	Charleston International Airport
+BNA	America/Chicago	Nashville	Tennessee	Nashville International Airport
+AUS	America/Chicago	Austin	Texas	Austin-Bergstrom International Airport
+DFW	America/Chicago	Dallas	Texas	Dallas/Fort Worth International Airport
+IAH	America/Chicago	Houston	Texas	George Bush Intercontinental Airport
+SAT	America/Chicago	San Antonio	Texas	San Antonio International Airport
+SLC	America/Denver	Salt Lake City	Utah	Salt Lake City International Airport
+BLI	America/Los_Angeles	Bellingham	Washington	Bellingham International Airport
+PSC	America/Los_Angeles	Pasco	Washington	Tri-Cities Airport
+PUW	America/Los_Angeles	Pullman	Washington	Pullman-Moscow Regional Airport
+SEA	America/Los_Angeles	Seattle	Washington	Seattle-Tacoma International Airport
+GEG	America/Los_Angeles	Spokane	Washington	Spokane International Airport
+ALW	America/Los_Angeles	Walla Walla	Washington	Walla Walla Regional Airport
+EAT	America/Los_Angeles	Wenatchee	Washington	Pangborn Memorial Airport
+YKM	America/Los_Angeles	Yakima	Washington	Yakima Air Terminal
+MKE	America/Chicago	Milwaukee	Wisconsin	General Mitchell International Airport
+YYC	America/Edmonton	Calgary	Canada	Calgary International Airport
+YEG	America/Edmonton	Edmonton	Canada	Edmonton International Airport
+YLW	America/Vancouver	Kelowna	Canada	Kelowna International Airport
+YVR	America/Vancouver	Vancouver	Canada	Vancouver International Airport
+YYJ	America/Vancouver	Victoria	Canada	Victoria International Airport
+LIP	America/Sao_Paulo	Liberia	Costa Rica	Daniel Oduber Quirós International Airport
+SJO	America/Costa_Rica	San José	Costa Rica	Juan Santamaría International Airport
+CUN	America/Cancun	Cancún	Mexico	Cancún International Airport
+GDL	America/Mexico_City	Guadalajara	Mexico	Miguel Hidalgo y Costilla Guadalajara International Airport
+LTO	America/Mazatlan	Loreto	Mexico	Loreto International Airport
+SJD	America/Mazatlan	Los Cabos	Mexico	Los Cabos International Airport
+ZLO	America/Mexico_City	Manzanillo	Mexico	Playa de Oro International Airport
+MZT	America/Mazatlan	Mazatlán	Mexico	General Rafael Buelna International Airport
+MEX	America/Mexico_City	Mexico City	Mexico	Aeropuerto Internacional Benito Juárez
+PVR	America/Mexico_City	Puerto Vallarta	Mexico	Licenciado Gustavo Díaz Ordaz International Airport
+ZIH	America/Mexico_City	Zihuatanejo	Mexico	Ixtapa-Zihuatanejo International Airport
+DAL	America/Chicago	Dallas	Texas	Dallas Love Field
+HAV	America/Havana	Havana	Cuba	José Martí International Airport
+LGB	America/Los_Angeles	Long Beach	California	Long Beach Airport
+MIA	America/New_York	Miami	Florida	Miami International Airport
+YYZ	America/Toronto	Toronto	Canada	Toronto Pearson International Airport
+RSW	America/New_York	Fort Myers	Florida	Southwest Florida International Airport
+CVG	America/New_York	Cincinnati	Ohio	Cincinnati Northern Kentucky International Airport
+MEM	America/Chicago	Memphis	Tennessee	Memphis International Airport
+CLE	America/New_York	Cleveland	Ohio	Cleveland Hopkins International Airport
+PIT	America/New_York	Pittsburgh	Pennsylvania	Pittsburgh International Airport
+CMH	America/New_York	Columbus	Ohio	John Glenn Columbus International Airport
+PBI	America/New_York	West Palm Beach	Florida	Palm Beach International Airport
+BUF	America/New_York	Buffalo	New York	Buffalo Niagara International Airport
+JAX	America/New_York	Jacksonville	Florida	Jacksonville International Airport
+RIC	America/New_York	Richmond	Virginia	Richmond International Airport
+SDF	America/New_York	Louisville	Kentucky	Louisville International Airport
+BHM	America/Chicago	Birmingham	Alabama	Birmingham-Shuttlesworth International Airport
+TUL	America/Chicago	Tulsa	Oklahoma	Tulsa International Airport
+DSM	America/Chicago	Des Moines	Iowa	Des Moines International Airport
+LIT	America/Chicago	Little Rock	Arkansas	Bill and Hillary Clinton National Airport
+FAR	America/Chicago	Fargo	North Dakota	Hector International Airport
+FSD	America/Chicago	Sioux Falls	South Dakota	Sioux Falls Regional Airport
+BDL	America/New_York	Hartford	Connecticut	Bradley International Airport
+ILM	America/New_York	Wilmington	Delaware	Wilmington International Airport
+PWM	America/New_York	Portland	Maine	Portland International Jetport
+JAN	America/Chicago	Jackson	Mississippi	Jackson-Medgar Wiley Evers International Airport
+MHT	America/New_York	Manchester	New Hampshire	Manchester-Boston Regional Airport
+PVD	America/New_York	Providence	Rhode Island	Theodore Francis Green State Airport
+BTV	America/New_York	Burlington	Vermont	Burlington International Airport
+CRW	America/New_York	Charleston	West Virginia	Yeager Airport
+CYS	America/Denver	Cheyenne	Wyoming	Cheyenne Regional Airport
